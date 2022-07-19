@@ -1,0 +1,16 @@
+#sticky-note-container {
+  height: 400px;
+}
+.note {
+  background-color: aliceblue;
+  width: 10%;
+  padding: 10px;
+  cursor: pointer;
+}
+.note > input[type="text"] {
+  width: 90%;
+  height: 5rem;
+}
+textarea {
+  width: 95%;
+}
